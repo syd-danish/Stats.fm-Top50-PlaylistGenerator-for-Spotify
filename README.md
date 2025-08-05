@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Stats.fm to Spotify Playlist</title>
-</head>
 <body>
 
   <h1>🎵 Stats.fm to Spotify Playlist Generator</h1>
