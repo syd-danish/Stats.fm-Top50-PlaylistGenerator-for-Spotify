@@ -8,13 +8,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
-
-
-
-
-
-CLIENT_ID="475c331b7b904aecb4f28c9f14b85200"
-CLIENT_SECRET="cec8461dde8c42b49390cc2bae770ad8"
+CLIENT_ID="" #enter your client_ID from Spotify for Developers
+CLIENT_SECRET="" #enter your client secret from Spotifyfor  developers
 REDIRECT_URI="https://example.com"
 USER_String="313ndua5u7lw6e2x5gvlkxmmapy4"
 CHROME_DRIVER_PATH="/Users/yasindanish13/Downloads/chromedriver137/chromedriver"
