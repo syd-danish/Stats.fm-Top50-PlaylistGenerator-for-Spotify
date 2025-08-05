@@ -37,18 +37,18 @@ cd your-repo</code></pre>
   <h3>5. Update Your Script</h3>
   <p>Edit the following variables in <code>main.py</code>:</p>
   <ul>
-    <li><code>CLIENT_ID</code></li>
-    <li><code>CLIENT_SECRET</code></li>
+    <li><code>CLIENT_ID = </code></li>
+    <li><code>CLIENT_SECRET = </code></li>
     <li><code>USER_String</code> – your Stats.fm username</li>
     <li><code>CHROME_DRIVER_PATH</code> – path to your local chromedriver</li>
   </ul>
 
   <h3>6. Run the Script</h3>
-  <pre><code>python main.py</code></pre>
+
 
   <h2>📂 Output</h2>
   <p>The script will create a playlist on your Spotify account named something like:</p>
-  <blockquote><code>Your Top 50 Songs - 6 Months</code></blockquote>
+  <blockquote><code>Your Top 50 Songs - 4 Weeks/6 Months/Lifetime</code></blockquote>
 
   <h2>💡 Notes</h2>
   <ul>
