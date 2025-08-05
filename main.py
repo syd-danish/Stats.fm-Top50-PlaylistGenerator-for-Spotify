@@ -14,7 +14,7 @@ REDIRECT_URI="https://example.com"
 USER_String="313ndua5u7lw6e2x5gvlkxmmapy4"
 CHROME_DRIVER_PATH="/Users/yasindanish13/Downloads/chromedriver137/chromedriver"
 RANGE=[["weeks","months","lifetime"],[4,6,'']]
-INDEX=1
+INDEX=1 #set INDEX=0 for a playlist based on your last 4 weeks, make it 2 for the top 50 songs of your spotify account's entire lifetime
 options = Options()
 options.add_argument("--disable-gpu")
 options.add_argument("--no-sandbox")
