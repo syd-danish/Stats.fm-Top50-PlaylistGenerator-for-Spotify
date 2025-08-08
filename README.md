@@ -17,8 +17,8 @@
   <h2>🛠️ Setup Instructions</h2>
 
   <h3>1. Clone the Repository</h3>
-  <pre><code>git clone https://github.com/yourusername/your-repo.git
-cd your-repo</code></pre>
+  <pre><code>git clone https://github.com/syd-danish/Stats.fm-Top50-PlaylistGenerator-for-Spotify.git
+cd Top50-PlaylistGenerator-for-Spotify </code></pre>
 
   <h3>2. Install Required Packages</h3>
   <pre><code>pip install -r requirements.txt</code></pre>
