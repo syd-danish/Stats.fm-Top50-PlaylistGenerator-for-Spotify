@@ -25,7 +25,7 @@ cd Top50-PlaylistGenerator-for-Spotify </code></pre>
 
   <h3>3. Create a Spotify Developer App</h3>
   <ol>
-    <li>Go to <a href="https://developer.spotify.com/dashboard" target="_blank">Spotify Developer Dashboard</a></li>
+    <li>Go to <a href="https://developer.spotify.com/dashboard" target="_blank">Spotify Developer Dashboard and Login or Sign Up </a></li>
     <li>Create a new app</li>
     <li>Copy your <code>Client ID</code> and <code>Client Secret</code></li>
     <li>Set the redirect URI to: <code>https://example.com</code></li>
@@ -44,7 +44,6 @@ cd Top50-PlaylistGenerator-for-Spotify </code></pre>
   </ul>
 
   <h3>6. Run the Script</h3>
-
 
   <h2>📂 Output</h2>
   <p>The script will create a playlist on your Spotify account named something like:</p>
