@@ -12,7 +12,7 @@ CLIENT_ID="" #enter your client_ID from Spotify for Developers
 CLIENT_SECRET="" #enter your client secret from Spotifyfor  developers
 REDIRECT_URI="https://example.com"
 USER_String="" #directly copy from your stats.fm URL
-CHROME_DRIVER_PATH="/Users/yasindanish13/Downloads/chromedriver137/chromedriver"
+CHROME_DRIVER_PATH="" #get the file path to chrome driver from your own device
 RANGE=[["weeks","months","lifetime"],[4,6,'']]
 INDEX=1 #set INDEX=0 for a playlist based on your last 4 weeks, make it 2 for the top 50 songs of your spotify account's entire lifetime
 options = Options()
